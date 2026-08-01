@@ -12,7 +12,7 @@
 
 ---
 
-# 👨‍💻 Sobre mí
+#  Sobre mí
 
 Soy estudiante de Ingeniería en Sistemas Computacionales con experiencia en desarrollo web, aplicaciones de escritorio (VBA, .NET), backend y bases de datos.
 
