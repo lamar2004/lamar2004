@@ -35,6 +35,8 @@ Me apasiona crear aplicaciones escalables, automatizar procesos y aprender nueva
 
 ## Lenguajes
 
+<div aling="center">
+
 <p>
 
 <img src="https://skillicons.dev/icons?i=java"/>
@@ -48,6 +50,8 @@ Me apasiona crear aplicaciones escalables, automatizar procesos y aprender nueva
 <img src="https://skillicons.dev/icons?i=ts"/>
 
 </p>
+
+</div>
 
 ## Frontend
 
@@ -146,9 +150,9 @@ Proyectos enfocados en:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lamar2004&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamar2004&layout=compact&theme=tokyonight"/>
 
 </div>
 
