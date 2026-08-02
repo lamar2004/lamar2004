@@ -35,7 +35,7 @@ Me apasiona crear aplicaciones escalables, automatizar procesos y aprender nueva
 
 ## Lenguajes
 
-<div aling="center">
+<div alingItems="center">
 
 <p>
 
