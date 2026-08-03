@@ -37,17 +37,17 @@ Me apasiona crear aplicaciones escalables, automatizar procesos y aprender nueva
 
 <div alingItems="center">
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=cs" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=js" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=ts" hspace=10/>
 
 </p>
 
@@ -55,53 +55,64 @@ Me apasiona crear aplicaciones escalables, automatizar procesos y aprender nueva
 
 ## Frontend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=react" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=html" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=css"/>
+<img src="https://skillicons.dev/icons?i=css" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=vite"/>
+<img src="https://skillicons.dev/icons?i=vite" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=flutter" hspace=10/>
 
 </p>
 
 ## Backend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=nodejs" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=spring" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://skillicons.dev/icons?i=dotnet" hspace=10/>
 
 </p>
 
 ## Bases de datos
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=firebase" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres" hspace=10/>
+
+<img src="https://skillicons.dev/icons?i=mongodb" hspace=10/>
 
 </p>
 
-## DevOps
+## DevOps y Herramientas
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=githubactions"/>
+<img src="https://skillicons.dev/icons?i=githubactions" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=netlify" hspace=10/>
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" hspace=10/>
+
+<img src="https://skillicons.dev/icons?i=github" hspace=10/>
+
+<img src="https://skillicons.dev/icons?i=linux" hspace=10/>
+
+<img src="https://skillicons.dev/icons?i=aws" hspace=10/>
+
+<img src="https://skillicons.dev/icons?i=git" hspace=10/>
+<img src="https://skillicons.dev/icons?i=npm" hspace=10/>
 
 </p>
 
@@ -143,18 +154,6 @@ Proyectos enfocados en:
 - Machine Learning
 - Integración con APIs
 - Bots
-
----
-
-# Estadísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lamar2004&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamar2004&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
