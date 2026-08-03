@@ -174,13 +174,11 @@ Proyectos enfocados en:
 
 ---
 
-# 🏆 Trofeos
+# METRICAS
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lamar2004&theme=tokyonight&row=1"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lamar2004/lamar2004/main/github-metrics.svg" />
+</p>
 
 ---
 
