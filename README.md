@@ -179,7 +179,7 @@ Proyectos enfocados en:
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/AlexanderMedinaPerez">
+<a href="https://www.linkedin.com/in/alexander-medina-p%C3%A9rez-88b982333/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
