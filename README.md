@@ -158,23 +158,13 @@ Proyectos enfocados en:
 
 ---
 
-# Racha
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lamar2004&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Actividad
+# Actividad
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lamar2004&theme=tokyo-night"/>
 
 ---
 
-# METRICAS
+# GitHub Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lamar2004/lamar2004/main/github-metrics.svg" />
@@ -182,7 +172,7 @@ Proyectos enfocados en:
 
 ---
 
-# 📫 Contacto
+#  Contacto
 
 <p>
 
